@@ -1,0 +1,15 @@
+{
+  "name": "Script",
+  "description": "",
+  "version": "0.1.0",
+  "author": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-gmail-api": "",
+    "atob": "",
+    "deferred": ""
+  }
+}
